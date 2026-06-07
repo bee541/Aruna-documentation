@@ -2,4 +2,22 @@ first two designs for Aruna's Prototype built in replit.
   Light + dark mode
   --> Using dark mode for V1 built. 
 
-  
+## Dark Mode Design
+Dark theme with coral/rose accent colors for focus-based time management interface.
+- Morning Intention screen with focus guidance
+- Calendar Day View with scheduled activities
+- Widget Preview components
+- Evening Reflection view
+- Goals and Values tracking
+
+![Dark Mode Design](image-1.png)
+
+## Light Mode Design  
+Light theme with blue and purple accent colors for alternative design.
+- Morning Intention screen with focus guidance
+- Calendar Day View with scheduled activities
+- Widget Preview components
+- Evening Reflection view
+- Goals and Values tracking
+
+![Light Mode Design](image-2.png)
